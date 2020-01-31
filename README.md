@@ -1,4 +1,4 @@
 # hello-world
-My first Repository lmao
 
 Yo peeps, what's up?
+Just created my first Repository lmao
